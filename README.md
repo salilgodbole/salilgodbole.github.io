@@ -1,6 +1,6 @@
 # doctor_app
 
-Melwin Doctor's App
+Sample Doctor's App
 
 ## Getting Started
 
